@@ -1,0 +1,48 @@
+[33mcommit 9ae9f1414223d07a898e8ac6d655b926b201a55c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mabout[m[33m)[m
+Merge: 521ab25 df464eb
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:40:46 2019 +0300
+
+    Merge branch 'master' into about
+
+[33mcommit df464ebe6d53d0c6067a68c9d866e162606c4995[m
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:36:22 2019 +0300
+
+    haha line
+
+[33mcommit c0cb8c4aed0d9bed9750db03923123745b4f32d9[m
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:34:35 2019 +0300
+
+    add a color
+
+[33mcommit f18aee228081497ee871d112688472e1de0f0ad1[m
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:34:13 2019 +0300
+
+    adding a new line
+
+[33mcommit 521ab25ed9993d92847342610261b0eae16ea8d0[m
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:31:32 2019 +0300
+
+    add html for about
+
+[33mcommit 7160850b74efe42c099c5a0e268f8d3351ffc779[m
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:28:22 2019 +0300
+
+    about
+
+[33mcommit 6d7b2ca2d3c84a576538358a9db43e2b61ad2666[m
+Author: abood <i.x3b0o0d.7@gmail.com>
+Date:   Fri Aug 2 23:23:50 2019 +0300
+
+    add html.css file
+
+[33mcommit daaa05392313f1124212de6e703dcaa0c04706d0[m
+Author: minifit <48988544+minifit@users.noreply.github.com>
+Date:   Fri Aug 2 23:13:20 2019 +0300
+
+    Initial commit
